@@ -1,3 +1,5 @@
+![Disk I/O visualization ](assets/disk2.png)
+
 # Disk I/O Analysis Guide
 
 
